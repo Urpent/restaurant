@@ -1,0 +1,6 @@
+C:\Users\PC-WYY\Desktop\Temp Code\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe.config
+C:\Users\PC-WYY\Desktop\Temp Code\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe
+C:\Users\PC-WYY\Desktop\Temp Code\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.pdb
+C:\Users\PC-WYY\Desktop\Temp Code\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csprojResolveAssemblyReference.cache
+C:\Users\PC-WYY\Desktop\Temp Code\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.exe
+C:\Users\PC-WYY\Desktop\Temp Code\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.pdb
