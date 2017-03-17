@@ -4,3 +4,9 @@ C:\Users\PC-WYY\Desktop\Temp Code\RestaurantApp\RestaurantApp\bin\Debug\Restaura
 C:\Users\PC-WYY\Desktop\Temp Code\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csprojResolveAssemblyReference.cache
 C:\Users\PC-WYY\Desktop\Temp Code\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.exe
 C:\Users\PC-WYY\Desktop\Temp Code\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.pdb
+D:\OneDrive\wyy\Workspace\src\github.com\metphosis\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe.config
+D:\OneDrive\wyy\Workspace\src\github.com\metphosis\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe
+D:\OneDrive\wyy\Workspace\src\github.com\metphosis\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.pdb
+D:\OneDrive\wyy\Workspace\src\github.com\metphosis\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csprojResolveAssemblyReference.cache
+D:\OneDrive\wyy\Workspace\src\github.com\metphosis\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.exe
+D:\OneDrive\wyy\Workspace\src\github.com\metphosis\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.pdb

@@ -1,0 +1,5 @@
+D:\OneDrive\wyy\Workspace\src\github.com\metphosis\RestaurantApp\RestaurantApp\bin\Release\RestaurantApp.exe.config
+D:\OneDrive\wyy\Workspace\src\github.com\metphosis\RestaurantApp\RestaurantApp\bin\Release\RestaurantApp.exe
+D:\OneDrive\wyy\Workspace\src\github.com\metphosis\RestaurantApp\RestaurantApp\bin\Release\RestaurantApp.pdb
+D:\OneDrive\wyy\Workspace\src\github.com\metphosis\RestaurantApp\RestaurantApp\obj\Release\RestaurantApp.exe
+D:\OneDrive\wyy\Workspace\src\github.com\metphosis\RestaurantApp\RestaurantApp\obj\Release\RestaurantApp.pdb
