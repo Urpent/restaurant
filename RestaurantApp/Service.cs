@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace RestaurantApp
 {
-    delegate bool IsTableAvailable(Table t);
     interface ITableService
     {
-        Table GetAvailableTable( IsTableAvailable funcIsTableAvailable);
+        Table GetAvailableTable(Func<Table, bool> funcIsTableAvailable);
     }
 
    
@@ -23,7 +22,7 @@ namespace RestaurantApp
             database = DatabaseFactory.getInstance();
         }
 
-        public Table GetAvailableTable(IsTableAvailable funcIsTableAvailable)
+        public Table GetAvailableTable(Func<Table,bool> funcIsTableAvailable)
         {
 
             List<Table> tableList = database.getRestaurantData().getTableList();
